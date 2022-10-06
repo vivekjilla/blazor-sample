@@ -5,7 +5,7 @@
     <TargetFramework>netcore3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.0.1" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.1.0" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
