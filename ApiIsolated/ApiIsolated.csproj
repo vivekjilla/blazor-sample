@@ -2,7 +2,6 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <AzureFunctionsVersion>v4</AzureFunctionsVersion>
-    <RuntimeFrameworkVersion>7.0.100-rc.1.22431.12</RuntimeFrameworkVersion>
     <OutputType>Exe</OutputType>
   </PropertyGroup>
   <ItemGroup>
